@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nemile001
+- 👋 Hi, I’m @tallcaramelgurl
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on web dev
