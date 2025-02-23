@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tallcaramelgurl
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software engineering
-- 📫 How to reach me danjumasonianemile@gmail.com
+- 👀 I’m interested in Data Science/Analytics
+- 🌱 I’m currently learning Data Science/Analytics
+- 💞️ I’m looking to collaborate on Data Science/Analytics
+- 📫 How to reach me sonianemile@gmail.com
 
 
